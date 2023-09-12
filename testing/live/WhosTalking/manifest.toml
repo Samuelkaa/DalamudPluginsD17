@@ -1,10 +1,8 @@
 [plugin]
 repository = "https://github.com/sersorrel/WhosTalking.git"
-commit = "02937d57e416a9611ee7c475a2236daa3ed930b4"
+commit = "fd7ea08255fc7a26be013945a00f662dd5ae2ba9"
 owners = ["sersorrel"]
 project_path = "WhosTalking"
 changelog = """\
-Added an option in the settings to disable the yellow outline for characters who haven't been matched to a user on Discord.
-
-Also fixed several bugs to do with chocobos (and probably other kinds of summon).
+Fixed some positioning bugs with the list of non-party speakers.
 """
